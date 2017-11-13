@@ -16,7 +16,7 @@ const writeFileLocation = argv.out
 
 //validate
 if (!writeFileLocation) {
-  console.error('Must specify a file locatino to write to, using the --out parameter')
+  console.error('Must specify a file location to write to, using the --out parameter')
   process.exit(1)
 }
 
