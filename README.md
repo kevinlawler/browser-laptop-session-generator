@@ -6,7 +6,7 @@ Creates sample persisted data for Brave's browser-laptop.
 `--out` (Required)
 
 File location to write the generated state file to, e.g.
-`node generate-session-store.js --out ~/Library/myname/Application\ Support\brave-test/session-store-1`
+`node generate-session-store.js --out ~/Library/Application\ Support\brave-test/session-store-1`
 
 `--windows`
 
